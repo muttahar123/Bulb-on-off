@@ -9,6 +9,8 @@ h3{
     padding-top: 10px;
     align-items: center;
     justify-content: center;
+    text-decoration: underline;
+    text-decoration: overline;
 }
 .name_head{
     display: flex;
