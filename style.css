@@ -1,0 +1,56 @@
+body{
+    font-family:Verdana, Geneva, Tahoma, sans-serif ;
+    /* background-color: rgb(241, 237, 231); */
+}
+
+h3{
+    display: flex;
+    padding: auto;
+    padding-top: 10px;
+    align-items: center;
+    justify-content: center;
+}
+.name_head{
+    display: flex;
+    padding: auto;
+    padding-top: 10px;
+    align-items: center;
+    justify-content: center;
+}
+
+.bulb_box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px auto;
+    height: 500px;
+    width: 500px;
+    margin: 0px auto;
+}
+.bulb_box > img{
+    height: 400px;
+    width: 400px;
+    display: flex;
+    align-items: center;
+    padding-top: 10px;
+}
+
+.lower{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px auto;
+    height: 500px;
+    width: 500px;
+    margin: 0px auto;
+    gap: 100px;
+}
+
+.lower > img{
+    height: 500px;
+    width: 500px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 300px;
+}
